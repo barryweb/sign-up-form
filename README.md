@@ -26,3 +26,7 @@ It includes a sidebar with a background image and logo, a form section with inte
 - **Git & GitHub** — for version control  
 - **Unsplash** — for imagery assets  
 - **TOP** - TOP provided Norse bold custom font in .otf format
+
+## Live Demo
+You can view the completed project here:  
+[**Live Preview on GitHub Pages**](https://barryweb.github.io/sign-up-form/)
